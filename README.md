@@ -1,4 +1,4 @@
-# Terraform code for creating EKS cluster, 
+# Terraform code for creating EKS cluster
 
 ## To create infrastructure run
 
